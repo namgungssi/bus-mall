@@ -1,0 +1,54 @@
+#pizzaTitle{
+  font-size: 42px;
+  font-family: fantasy;
+  font-weight: lighter;
+  line-height: 0;
+}
+
+#postAndPrint{
+  font-size: 15px;
+  font-weight: light;
+  line-height: 0;
+  font-family: Helvetica;
+  color: silver;
+}
+
+#recipe {
+  font-size: 20px;
+  color: silver;
+}
+
+#recipe {
+  text-indent: 50px;
+}
+
+#page {
+  /*padding-right: 15%;*/
+  width: 960px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.pizzaPic {
+  max-width: 100%;
+}
+
+#ingredientsContainer {
+  background-image: url("list-bg.png");
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+}
+
+ul#ingredients1 {
+  list-style: none;
+  padding-right: 20%;
+  font-family: 'Comic Sans MS';
+  color: #403121;
+}
+
+ul#ingredients2 {
+  list-style: none;
+  font-family: 'Comic Sans MS';
+  color: #403121;
+}
